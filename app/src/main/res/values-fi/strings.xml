@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Asetukset</string>
+    <string name="send">Lähetä</string>
+    <string name="login">Kirjaudu sisään</string>
+    <string name="username">Käyttäjätunnus</string>
+    <string name="password">Salasana</string>
+    <string name="channel">Kanava</string>
+    <string name="remember">Muista minut</string>
+    <string name="exit">Exit</string>
+    <string name="save">Tallenna</string>
+    <string name="email">Sähköposti</string>
+    <string name="email_re">Sähköposti (varmistus)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Ilmoituksen saapuvat whisps</string>
+    <string name="keep_wifi_on">Yritä pitää wifi</string>
+    <string name="num_of_chats">Viestejä chat-ikkuna</string>
+    <string name="gateway">Gateway</string>
+    <string name="x_users_in_channel">%1$d käyttäjille kanava #%2$s</string>
+    <string name="whispers">kuiskaa</string>
+    <string name="ANNOUNCEMENT">ILMOITUS</string>
+    <string name="joining_channel">Liittyminen kanava</string>
+    <string name="you_whispered_to">Kuiskasi %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">VIRHE</string>
+    <string name="emote_from">Emote %1$s</string>
+    <string name="broken_connection">yhteys katkaistu</string>
+    <string name="no_connection">ei yhteyttä</string>
+    <string name="protocol_error">Protokollavirhe</string>
+    <string name="wrong_password">väärä salasana tai palvelin hylkää</string>
+    <string name="OK">Okei</string>
+    <string name="not_ready">Ei vielä valmis</string>
+    <string name="reconnect">Uudelleen</string>
+    <string name="disconnected">Ollut katkaistu, elvyttämään pian.</string>
+    <string name="connect_now">Yhteys nyt</string>
+    <string name="chat_buffer">Chat puskuri</string>
+    <string name="zero_infinity">0 tarkoittaa rajaton</string>
+
+</resources>

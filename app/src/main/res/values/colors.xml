@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="White">#FFFFFF</color>
+    <color name="Green">#00FF00</color>
+    <color name="AliceBlue">#F0F8FF</color>
+    <color name="Aquamarine">#7FFFD4</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Black">#000000</color>
+    <color name="channel_sender">#FED312</color>
+    <color name="channel_broadcast">#76C6EA</color>
+    <color name="channel_error">#FF0000</color>
+    <color name="channel_emote">#838383</color>
+    <color name="channel_talk">#FFFFFF</color>
+    <color name="channel_whisper">#00FF00</color>
+    <color name="channel_admin">#45ACF6</color>
+    <color name="spinner_blue">#06094A</color>
+
+</resources>

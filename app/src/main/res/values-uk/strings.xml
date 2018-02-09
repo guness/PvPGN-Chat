@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Параметри</string>
+    <string name="send">Надіслати</string>
+    <string name="login">Логін</string>
+    <string name="username">Ім\'я користувача\'</string>
+    <string name="password">Пароль</string>
+    <string name="channel">Канал</string>
+    <string name="remember">Запам\'ятати мене\'</string>
+    <string name="exit">Вихід</string>
+    <string name="save">Зберегти</string>
+    <string name="email">Електронна пошта</string>
+    <string name="email_re">Електронна пошта (знову)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Оповіщення для вхідних whisps</string>
+    <string name="keep_wifi_on">Намагайтеся тримати wifi на</string>
+    <string name="num_of_chats">Кількість повідомлень на вікні чату</string>
+    <string name="gateway">Шлюз</string>
+    <string name="x_users_in_channel">%1$d користувачів у каналі #%2$s</string>
+    <string name="whispers">Шепіт</string>
+    <string name="ANNOUNCEMENT">ОГОЛОШЕННЯ</string>
+    <string name="joining_channel">Приєднання до каналу</string>
+    <string name="you_whispered_to">Ви прошепотіла до %1$s</string>
+    <string name="INFO">ІНФОРМАЦІЯ</string>
+    <string name="ERROR">ПОМИЛКА</string>
+    <string name="emote_from">емоції від %1$s</string>
+    <string name="broken_connection">відключено</string>
+    <string name="no_connection">немає підключення</string>
+    <string name="protocol_error">помилка протоколу</string>
+    <string name="wrong_password">неправильний пароль або сервер відхилити</string>
+    <string name="OK">Гаразд</string>
+    <string name="not_ready">Ще не готова</string>
+    <string name="reconnect">Повторне підключення</string>
+    <string name="disconnected">Ви були відключені, повторне підключення найближчим часом.</string>
+    <string name="connect_now">Швидке підключення</string>
+    <string name="chat_buffer">Чат буфер</string>
+    <string name="zero_infinity">0 означає необмежену</string>
+
+</resources>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Seting</string>
+    <string name="send">Menghantar</string>
+    <string name="login">Log masuk</string>
+    <string name="username">Nama pengguna</string>
+    <string name="password">Kata laluan</string>
+    <string name="channel">Saluran</string>
+    <string name="remember">Ingat saya</string>
+    <string name="exit">Jalan keluar</string>
+    <string name="save">Simpan</string>
+    <string name="email">E-mel</string>
+    <string name="email_re">E-mel (sekali lagi)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Berjaga-jaga untuk masuk whisps</string>
+    <string name="keep_wifi_on">Cuba kekalkan wifi</string>
+    <string name="num_of_chats">Bilangan mesej di tetingkap sembang</string>
+    <string name="gateway">Get laluan</string>
+    <string name="x_users_in_channel">%1$d pengguna dalam saluran #%2$s</string>
+    <string name="whispers">whispers</string>
+    <string name="ANNOUNCEMENT">PENGUMUMAN</string>
+    <string name="joining_channel">Menyertai saluran</string>
+    <string name="you_whispered_to">Anda membisikkan kepada %1$s</string>
+    <string name="INFO">MAKLUMAT</string>
+    <string name="ERROR">RALAT</string>
+    <string name="emote_from">emote daripada %1$s</string>
+    <string name="broken_connection">diputuskan</string>
+    <string name="no_connection">Tiada sambungan</string>
+    <string name="protocol_error">Ralat protokol</string>
+    <string name="wrong_password">Tolak kata laluan atau pelayan yang salah</string>
+    <string name="OK">ok</string>
+    <string name="not_ready">Tidak bersedia lagi</string>
+    <string name="reconnect">Sambung semula</string>
+    <string name="disconnected">Anda telah diputuskan, menyambung semula tidak lama lagi.</string>
+    <string name="connect_now">Sambung sekarang</string>
+    <string name="chat_buffer">Sembang penampan</string>
+    <string name="zero_infinity">0 bermaksud tidak terhad</string>
+
+</resources>

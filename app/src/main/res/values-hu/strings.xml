@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Beállítások</string>
+    <string name="send">Küldés</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="username">Username</string>
+    <string name="password">Jelszó</string>
+    <string name="channel">Csatorna</string>
+    <string name="remember">Emlékezz rám</string>
+    <string name="exit">Kilépés</string>
+    <string name="save">Mentés</string>
+    <string name="email">E-mailben</string>
+    <string name="email_re">E-mail (ismét)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">A bejövő whisps riasztás</string>
+    <string name="keep_wifi_on">Próbáljuk wifi</string>
+    <string name="num_of_chats">Az üzenetek a beszélgetés ablak száma</string>
+    <string name="gateway">Átjáró</string>
+    <string name="x_users_in_channel">a(z) %1$d felhasználók csatorna #%2$s</string>
+    <string name="whispers">suttogva</string>
+    <string name="ANNOUNCEMENT">BEJELENTÉSE</string>
+    <string name="joining_channel">Összekötő csatorna</string>
+    <string name="you_whispered_to">Suttogta, hogy a(z) %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">HIBA</string>
+    <string name="emote_from">a(z) %1$s emote</string>
+    <string name="broken_connection">leválasztott</string>
+    <string name="no_connection">nincs kapcsolat</string>
+    <string name="protocol_error">protokoll hiba</string>
+    <string name="wrong_password">rossz jelszóval vagy a kiszolgáló elutasít</string>
+    <string name="OK">oké</string>
+    <string name="not_ready">Nem kész még</string>
+    <string name="reconnect">Újra</string>
+    <string name="disconnected">Ki voltak húzva, újra kapcsolatba kerülhetnek hamarosan.</string>
+    <string name="connect_now">Csatlakozzon most</string>
+    <string name="chat_buffer">Chat puffer</string>
+    <string name="zero_infinity">0 jelenti</string>
+
+</resources>

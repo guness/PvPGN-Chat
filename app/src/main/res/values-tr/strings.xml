@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Ayarlar</string>
+    <string name="send">Gönder</string>
+    <string name="login">Giriş</string>
+    <string name="username">Kullanıcı adı</string>
+    <string name="password">Şifre</string>
+    <string name="channel">Kanal</string>
+    <string name="remember">Hatırla</string>
+    <string name="exit">Çıkış</string>
+    <string name="save">Kaydet</string>
+    <string name="email">E-posta</string>
+    <string name="email_re">E-posta (Yeniden)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Özel mesaj gelince ses çal</string>
+    <string name="keep_wifi_on">Wifi açık tut</string>
+    <string name="num_of_chats">Chat sayfasındaki tutulacak mesajların sayısı</string>
+    <string name="gateway">Sunucu adresi</string>
+    <string name="x_users_in_channel">%1$d kullanıcı #%2$s kanalında</string>
+    <string name="whispers">fısıldadı</string>
+    <string name="ANNOUNCEMENT">DUYURU</string>
+    <string name="joining_channel">Girilen Kanal</string>
+    <string name="you_whispered_to">%1$s\'a fısıldadın</string>
+    <string name="INFO">BİLGİ</string>
+    <string name="ERROR">HATA</string>
+    <string name="emote_from">%1$s\'den emote</string>
+    <string name="broken_connection">bağlantı koptu</string>
+    <string name="no_connection">bağlantı hatası</string>
+    <string name="protocol_error">protokol hatası</string>
+    <string name="wrong_password">şifre hatalı ya da sunucu reddetti</string>
+    <string name="OK">TAMAM</string>
+    <string name="not_ready">Henüz Hazır Değil</string>
+    <string name="reconnect">Bağlantı Kopunca Yeniden Bağlan</string>
+    <string name="disconnected">Bağlantın, yeniden bağlanılıyor.</string>
+    <string name="connect_now">Şimdi Bağlan</string>
+    <string name="chat_buffer">Kanal Boyu</string>
+    <string name="zero_infinity">0 Sınırsız Demektir</string>
+
+</resources>

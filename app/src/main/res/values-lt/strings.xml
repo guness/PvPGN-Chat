@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Parametrai</string>
+    <string name="send">Siųsti</string>
+    <string name="login">Prisijungti</string>
+    <string name="username">Vartotojo vardas</string>
+    <string name="password">Slaptažodį</string>
+    <string name="channel">Kanalas</string>
+    <string name="remember">Prisimink mane</string>
+    <string name="exit">Išėjimo</string>
+    <string name="save">Išsaugoti</string>
+    <string name="email">El. paštas</string>
+    <string name="email_re">El. paštas (dar kartą)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Perspėjimas apie gaunamus whisps</string>
+    <string name="keep_wifi_on">Stenkitės laikyti wifi</string>
+    <string name="num_of_chats">Pranešimų, pokalbių lange</string>
+    <string name="gateway">Vartai</string>
+    <string name="x_users_in_channel">%1$d vartotojams kanalo #%2$s</string>
+    <string name="whispers">šnabžda</string>
+    <string name="ANNOUNCEMENT">SKELBIMAS</string>
+    <string name="joining_channel">Prisijungdamas prie kanalo</string>
+    <string name="you_whispered_to">Jūs pašnibždėjo 1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">KLAIDA</string>
+    <string name="emote_from">demonstruoja jausmus nuo 1$ s</string>
+    <string name="broken_connection">atjungtas</string>
+    <string name="no_connection">jokio ryšio</string>
+    <string name="protocol_error">Protokolo klaida</string>
+    <string name="wrong_password">Neteisingas slaptažodis arba serverio atmesti</string>
+    <string name="OK">gerai</string>
+    <string name="not_ready">Išsikraustote dar</string>
+    <string name="reconnect">Prisijungti</string>
+    <string name="disconnected">Jums buvo atjungtas, ryšį greičiau.</string>
+    <string name="connect_now">Junkitės dabar</string>
+    <string name="chat_buffer">Pokalbių buferis</string>
+    <string name="zero_infinity">0 reiškia neribotai</string>
+
+</resources>

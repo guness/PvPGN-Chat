@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Параметры</string>
+    <string name="send">Отправить</string>
+    <string name="login">Вход</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="channel">Канал</string>
+    <string name="remember">Запомнить меня</string>
+    <string name="exit">Выход</string>
+    <string name="save">Сохранить</string>
+    <string name="email">Отправить по электронной почте</string>
+    <string name="email_re">Электронная почта (опять же)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Предупреждения для входящих whisps</string>
+    <string name="keep_wifi_on">Старайтесь держать wifi на</string>
+    <string name="num_of_chats">Количество сообщений в окне чата</string>
+    <string name="gateway">Шлюз</string>
+    <string name="x_users_in_channel">%1$d пользователей в канал #%2$s</string>
+    <string name="whispers">шепчет</string>
+    <string name="ANNOUNCEMENT">ОБЪЯВЛЕНИЕ</string>
+    <string name="joining_channel">Присоединение канал</string>
+    <string name="you_whispered_to">Вы шепнул %1$s</string>
+    <string name="INFO">ИНФОРМАЦИЯ</string>
+    <string name="ERROR">ОШИБКА</string>
+    <string name="emote_from">эмоции от %1$s</string>
+    <string name="broken_connection">отключен</string>
+    <string name="no_connection">Нет соединения</string>
+    <string name="protocol_error">Ошибка протокола</string>
+    <string name="wrong_password">неправильный пароль или сервера отклонить</string>
+    <string name="OK">Хорошо</string>
+    <string name="not_ready">Еще не готовы</string>
+    <string name="reconnect">Повторное подключение</string>
+    <string name="disconnected">Вы были отключены, снова скоро.</string>
+    <string name="connect_now">Подключиться сейчас</string>
+    <string name="chat_buffer">Чат буфер</string>
+    <string name="zero_infinity">0 означает неограниченное</string>
+
+</resources>

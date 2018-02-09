@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Nastavitve</string>
+    <string name="send">Pošlji</string>
+    <string name="login">Prijava</string>
+    <string name="username">Uporabniško ime</string>
+    <string name="password">Geslo</string>
+    <string name="channel">Kanal</string>
+    <string name="remember">Zapomni si me</string>
+    <string name="exit">Izhod</string>
+    <string name="save">Shrani</string>
+    <string name="email">Email</string>
+    <string name="email_re">Email (spet)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Opozorilo za dohodne whisps</string>
+    <string name="keep_wifi_on">Hranite wifi</string>
+    <string name="num_of_chats">Število sporočil na okno za klepet</string>
+    <string name="gateway">Gateway</string>
+    <string name="x_users_in_channel">%1$d uporabniki v kanal #%2$s</string>
+    <string name="whispers">šepeta</string>
+    <string name="ANNOUNCEMENT">NAPOVED</string>
+    <string name="joining_channel">Povezuje kanal</string>
+    <string name="you_whispered_to">Ste zašepetal %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">NAPAKA</string>
+    <string name="emote_from">Poosebljanje iz %1$s</string>
+    <string name="broken_connection">odklopi</string>
+    <string name="no_connection">brez povezave</string>
+    <string name="protocol_error">Napaka protokola</string>
+    <string name="wrong_password">napačno geslo ali strežnik Zavrni</string>
+    <string name="OK">v redu</string>
+    <string name="not_ready">Ni pripravljena še</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="disconnected">Je prekinila, reconnecting kmalu.</string>
+    <string name="connect_now">Zdaj povezati</string>
+    <string name="chat_buffer">Klepet medpomnilnika</string>
+    <string name="zero_infinity">0 sredstvo neomejen</string>
+
+</resources>

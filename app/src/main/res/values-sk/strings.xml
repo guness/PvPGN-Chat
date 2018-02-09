@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Nastavenia</string>
+    <string name="send">Odoslať</string>
+    <string name="login">Prihlásenie</string>
+    <string name="username">Užívateľské meno</string>
+    <string name="password">Heslo</string>
+    <string name="channel">Kanál</string>
+    <string name="remember">Pamätaj si ma</string>
+    <string name="exit">Výstupu</string>
+    <string name="save">Uložiť</string>
+    <string name="email">E-mailom</string>
+    <string name="email_re">E-mail (opäť)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Upozornenie na prichádzajúce whisps</string>
+    <string name="keep_wifi_on">Snažte sa udržať wifi</string>
+    <string name="num_of_chats">Počet správ na chatu</string>
+    <string name="gateway">Brána</string>
+    <string name="x_users_in_channel">%1$d používateľov v kanáli #%2$s</string>
+    <string name="whispers">šepká</string>
+    <string name="ANNOUNCEMENT">OZNÁMENIE</string>
+    <string name="joining_channel">Spájanie kanál</string>
+    <string name="you_whispered_to">Zašepkal do %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">CHYBA</string>
+    <string name="emote_from">emócie z %1$s</string>
+    <string name="broken_connection">odpojené</string>
+    <string name="no_connection">žiadne pripojenie</string>
+    <string name="protocol_error">Chyba protokolu</string>
+    <string name="wrong_password">nesprávne heslo alebo server odmietnuť</string>
+    <string name="OK">ok</string>
+    <string name="not_ready">Nie je hotová</string>
+    <string name="reconnect">Opätovné pripojenie</string>
+    <string name="disconnected">Boli ste odpojený, znova čoskoro.</string>
+    <string name="connect_now">Pripojiť teraz</string>
+    <string name="chat_buffer">Chat medzipamäte</string>
+    <string name="zero_infinity">0 znamená neobmedzený</string>
+
+</resources>

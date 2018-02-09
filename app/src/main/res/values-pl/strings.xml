@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Ustawienia</string>
+    <string name="send">Wyślij</string>
+    <string name="login">Zgłoś się do systemu</string>
+    <string name="username">Nazwa użytkownika</string>
+    <string name="password">Hasło</string>
+    <string name="channel">Kanał</string>
+    <string name="remember">Pamiętaj mnie</string>
+    <string name="exit">Wyjście</string>
+    <string name="save">Zapisz</string>
+    <string name="email">Adres e-mail</string>
+    <string name="email_re">E-mail (ponownie)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Alert dla przychodzących whisps</string>
+    <string name="keep_wifi_on">Staraj się wifi</string>
+    <string name="num_of_chats">Liczba wiadomości w oknie rozmowy</string>
+    <string name="gateway">Bramy</string>
+    <string name="x_users_in_channel">%1$d użytkowników kanału #%2$s</string>
+    <string name="whispers">Szepty</string>
+    <string name="ANNOUNCEMENT">OGŁOSZENIE</string>
+    <string name="joining_channel">Do kanału</string>
+    <string name="you_whispered_to">Szepnął do %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">BŁĄD</string>
+    <string name="emote_from">Emot z %1$s</string>
+    <string name="broken_connection">odłączony</string>
+    <string name="no_connection">Brak połączenia</string>
+    <string name="protocol_error">błąd protokołu</string>
+    <string name="wrong_password">złe hasło lub serwer odrzucić</string>
+    <string name="OK">Ok</string>
+    <string name="not_ready">Nie jest jeszcze gotowy</string>
+    <string name="reconnect">Ponownie</string>
+    <string name="disconnected">Możesz zostały odłączone, ponowne wkrótce.</string>
+    <string name="connect_now">Połącz teraz</string>
+    <string name="chat_buffer">Bufor czat</string>
+    <string name="zero_infinity">0 oznacza nieograniczony</string>
+
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Настройки</string>
+    <string name="send">Изпрати</string>
+    <string name="login">Вход</string>
+    <string name="username">Потребителско име</string>
+    <string name="password">Парола</string>
+    <string name="channel">Канал</string>
+    <string name="remember">Запомни ме</string>
+    <string name="exit">Изход</string>
+    <string name="save">Запази</string>
+    <string name="email">Email</string>
+    <string name="email_re">Email (Повтори)</string>
+
+    <string-array name="actions_user">
+        <item>Къде е</item>
+        <item>Лична информация</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Игнорирай</item>
+        <item>Премахни игнор</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Изритай</item>
+        <item>Забрани</item>
+        <item>Заглуши</item>
+        <item>Включи звука</item>
+        <item>Къде е</item>
+        <item>Лична информация</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Игнорирай</item>
+        <item>Премахни игнор</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Получавай известия за входящи съобщения</string>
+    <string name="keep_wifi_on">Опитай да запазиш Wifi включен</string>
+    <string name="num_of_chats">Брой съобщения видими в чат прозорец</string>
+    <string name="gateway">врата</string>
+    <string name="x_users_in_channel">%1$d потребителите в канал #%2$s</string>
+    <string name="whispers">шепна</string>
+    <string name="ANNOUNCEMENT">СЪОБЩЕНИЕ</string>
+    <string name="joining_channel">Канал Регистриран</string>
+    <string name="you_whispered_to">Можете прошепна %1$s</string>
+    <string name="INFO">ИНФОРМАЦИЯ</string>
+    <string name="ERROR">ГРЕШКА</string>
+    <string name="emote_from">изразявам чувствата си от %1$s</string>
+    <string name="broken_connection">счупена връзка</string>
+    <string name="no_connection">Няма връзка</string>
+    <string name="protocol_error">грешка в протокола</string>
+    <string name="wrong_password">Грешна парола или сървър отхвърлено</string>
+    <string name="OK">Добре!</string>
+    <string name="not_ready">Още не си готов</string>
+    <string name="reconnect">Свържете</string>
+    <string name="disconnected">Ти беше изключен, се завръща скоро.</string>
+    <string name="connect_now">Свържете сега</string>
+    <string name="chat_buffer">чат буфер</string>
+    <string name="zero_infinity">0 означава неограничена</string>
+
+</resources>

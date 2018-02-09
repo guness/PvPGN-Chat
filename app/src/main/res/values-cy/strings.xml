@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Gosodiadau</string>
+    <string name="send">Anfon</string>
+    <string name="login">Fewngofnodi</string>
+    <string name="username">Enw defnyddiwr</string>
+    <string name="password">Cyfrinair</string>
+    <string name="channel">sianel</string>
+    <string name="remember">Cofio fi</string>
+    <string name="exit">Ymadael</string>
+    <string name="save">Arbed</string>
+    <string name="email">E-bost</string>
+    <string name="email_re">E-bost (eto)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Rhybudd am whisps newydd</string>
+    <string name="keep_wifi_on">Ceisiwch gadw wifi</string>
+    <string name="num_of_chats">Nifer o negeseuon ar ffenestr sgwrsio</string>
+    <string name="gateway">Porth</string>
+    <string name="x_users_in_channel">%1$d defnyddwyr yn sianel #%2$s</string>
+    <string name="whispers">sibrydion</string>
+    <string name="ANNOUNCEMENT">CYHOEDDIAD</string>
+    <string name="joining_channel">Ymuno â\'r sianel\'</string>
+    <string name="you_whispered_to">Sibrydodd chi i %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">GWALL</string>
+    <string name="emote_from">emote o %1$s</string>
+    <string name="broken_connection">wedi\'i ddatgysylltu\'</string>
+    <string name="no_connection">Nid oes cysylltiad</string>
+    <string name="protocol_error">gwall protocol</string>
+    <string name="wrong_password">gwrthod cyfrinair neu gweinydd anghywir</string>
+    <string name="OK">iawn</string>
+    <string name="not_ready">Nid yw\'n barod eto\'</string>
+    <string name="reconnect">Ailgysylltu</string>
+    <string name="disconnected">Roedd eich datgysylltu, o ailgysylltu cyn bo hir.</string>
+    <string name="connect_now">Cysylltu nawr</string>
+    <string name="chat_buffer">Sgwrs clustogi</string>
+    <string name="zero_infinity">0 yn golygu diderfyn</string>
+
+</resources>

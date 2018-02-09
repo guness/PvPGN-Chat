@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Inställningar</string>
+    <string name="send">Skicka</string>
+    <string name="login">Logga in</string>
+    <string name="username">Användarnamn</string>
+    <string name="password">Lösenord</string>
+    <string name="channel">Kanal</string>
+    <string name="remember">Kom ihåg mig</string>
+    <string name="exit">Exit</string>
+    <string name="save">Spara</string>
+    <string name="email">E-post</string>
+    <string name="email_re">E-post (igen)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Varning för inkommande vispar</string>
+    <string name="keep_wifi_on">Försöka hålla wifi på</string>
+    <string name="num_of_chats">Antal meddelanden på chat-fönstret</string>
+    <string name="gateway">Gateway</string>
+    <string name="x_users_in_channel">%1$d användare i kanalen #%2$s</string>
+    <string name="whispers">viskar</string>
+    <string name="ANNOUNCEMENT">TILLKÄNNAGIVANDET</string>
+    <string name="joining_channel">Att gå kanalen</string>
+    <string name="you_whispered_to">Du viskade till %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">FEL</string>
+    <string name="emote_from">Emote från %1$s</string>
+    <string name="broken_connection">frånkopplad</string>
+    <string name="no_connection">ingen anslutning</string>
+    <string name="protocol_error">protokollfel</string>
+    <string name="wrong_password">fel lösenord eller servern avvisa</string>
+    <string name="OK">Okej</string>
+    <string name="not_ready">Inte redo ännu</string>
+    <string name="reconnect">Återansluta</string>
+    <string name="disconnected">Du var frånkopplad, ansluta igen snart.</string>
+    <string name="connect_now">Anslut nu</string>
+    <string name="chat_buffer">Chatt buffert</string>
+    <string name="zero_infinity">0 betyder obegränsad</string>
+
+</resources>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Setări</string>
+    <string name="send">Trimite</string>
+    <string name="login">Login</string>
+    <string name="username">Nume de utilizator</string>
+    <string name="password">Parola</string>
+    <string name="channel">Canal</string>
+    <string name="remember">Tine-ma minte</string>
+    <string name="exit">Ieşire</string>
+    <string name="save">Salvaţi</string>
+    <string name="email">E-mail</string>
+    <string name="email_re">E-mail (din nou)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Alertă pentru intrare whisps</string>
+    <string name="keep_wifi_on">Încercaţi să păstraţi wifi</string>
+    <string name="num_of_chats">Numărul de mesaje pe chat fereastră</string>
+    <string name="gateway">Gateway</string>
+    <string name="x_users_in_channel">%1$d utilizatori din canalul #%2$s</string>
+    <string name="whispers">şoapte</string>
+    <string name="ANNOUNCEMENT">ANUNT</string>
+    <string name="joining_channel">Aderarea la canal</string>
+    <string name="you_whispered_to">Aţi şoptit la %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">EROARE</string>
+    <string name="emote_from">Emote din %1$s</string>
+    <string name="broken_connection">deconectat</string>
+    <string name="no_connection">nici o conexiune</string>
+    <string name="protocol_error">eroare de protocol</string>
+    <string name="wrong_password">respinge gresit parola sau server</string>
+    <string name="OK">ok</string>
+    <string name="not_ready">Nu sunt gata încă</string>
+    <string name="reconnect">Reconectaţi</string>
+    <string name="disconnected">Au fost deconectat, reconectarea în curând.</string>
+    <string name="connect_now">Conecta acum</string>
+    <string name="chat_buffer">Tampon de chat</string>
+    <string name="zero_infinity">0 înseamnă nelimitat</string>
+
+</resources>

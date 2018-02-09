@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">설정</string>
+    <string name="send">보내기</string>
+    <string name="login">로그인</string>
+    <string name="username">사용자 이름</string>
+    <string name="password">비밀 번호</string>
+    <string name="channel">채널</string>
+    <string name="remember">나를 기억합니다</string>
+    <string name="exit">출구</string>
+    <string name="save">저장</string>
+    <string name="email">메일 주소</string>
+    <string name="email_re">이메일 (다시)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">들어오는 whisps에 대 한 경고</string>
+    <string name="keep_wifi_on">Wifi를 유지 하려고</string>
+    <string name="num_of_chats">채팅 창에 메시지 수</string>
+    <string name="gateway">게이트웨이</string>
+    <string name="x_users_in_channel">%1$d 사용자 채널 # %2$s에</string>
+    <string name="whispers">속 삭 임</string>
+    <string name="ANNOUNCEMENT">발표</string>
+    <string name="joining_channel">채널 가입</string>
+    <string name="you_whispered_to">%1$s 를 속 삭 였다</string>
+    <string name="INFO">정보</string>
+    <string name="ERROR">오류</string>
+    <string name="emote_from">%1$s에서 나타내</string>
+    <string name="broken_connection">연결 해제</string>
+    <string name="no_connection">연결 없음</string>
+    <string name="protocol_error">프로토콜 오류</string>
+    <string name="wrong_password">잘못 된 암호 또는 서버 거부</string>
+    <string name="OK">괜찮았던 것</string>
+    <string name="not_ready">아직 준비 하지</string>
+    <string name="reconnect">다시 연결</string>
+    <string name="disconnected">당신이 곧 다시 분리 했다.</string>
+    <string name="connect_now">지금 연결</string>
+    <string name="chat_buffer">채팅 버퍼</string>
+    <string name="zero_infinity">0 이면 무제한</string>
+
+</resources>

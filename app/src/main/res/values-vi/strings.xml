@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Cài đặt</string>
+    <string name="send">Gửi</string>
+    <string name="login">Đăng nhập</string>
+    <string name="username">Tên người dùng</string>
+    <string name="password">Mật khẩu</string>
+    <string name="channel">Kênh</string>
+    <string name="remember">Nhớ mật khẩu</string>
+    <string name="exit">Lối ra</string>
+    <string name="save">Tiết kiệm</string>
+    <string name="email">Thư điện tử</string>
+    <string name="email_re">Email (lần nữa)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Cảnh báo cho đến whisps</string>
+    <string name="keep_wifi_on">Cố gắng giữ cho wifi</string>
+    <string name="num_of_chats">Số lượng tin nhắn vào cửa sổ trò chuyện</string>
+    <string name="gateway">Cổng</string>
+    <string name="x_users_in_channel">%1$d người dùng trong kênh #%2$s</string>
+    <string name="whispers">thì thầm</string>
+    <string name="ANNOUNCEMENT">THÔNG BÁO</string>
+    <string name="joining_channel">Tham gia các kênh</string>
+    <string name="you_whispered_to">Bạn thì thầm với %1$s</string>
+    <string name="INFO">THÔNG TIN</string>
+    <string name="ERROR">LỖI</string>
+    <string name="emote_from">biểu hiện cảm xúc từ %1$s</string>
+    <string name="broken_connection">ngắt kết nối</string>
+    <string name="no_connection">không có kết nối</string>
+    <string name="protocol_error">lỗi giao thức</string>
+    <string name="wrong_password">sai mật khẩu hoặc máy chủ từ chối</string>
+    <string name="OK">Ok</string>
+    <string name="not_ready">Không sẵn sàng được</string>
+    <string name="reconnect">Kết nối lại</string>
+    <string name="disconnected">Bạn đã kết nối, kết nối lại sớm.</string>
+    <string name="connect_now">Kết nối ngay</string>
+    <string name="chat_buffer">Trò chuyện bộ đệm</string>
+    <string name="zero_infinity">0 có nghĩa là không giới hạn</string>
+
+</resources>

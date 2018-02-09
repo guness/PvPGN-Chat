@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Configurações</string>
+    <string name="send">Enviar</string>
+    <string name="login">Login</string>
+    <string name="username">Nome de usuário</string>
+    <string name="password">Senha</string>
+    <string name="channel">Canal</string>
+    <string name="remember">Lembra de mim</string>
+    <string name="exit">Saída</string>
+    <string name="save">Salvar</string>
+    <string name="email">E-mail</string>
+    <string name="email_re">E-mail (outra vez)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Alerta para entrada whisps</string>
+    <string name="keep_wifi_on">Tente manter o Wi-Fi</string>
+    <string name="num_of_chats">Número de mensagens na janela de chat</string>
+    <string name="gateway">Gateway</string>
+    <string name="x_users_in_channel">%1$d usuários no canal #%2$s</string>
+    <string name="whispers">sussurros</string>
+    <string name="ANNOUNCEMENT">ANÚNCIO</string>
+    <string name="joining_channel">Aderir canal</string>
+    <string name="you_whispered_to">Você sussurrou para %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">ERRO</string>
+    <string name="emote_from">emote de %1$s</string>
+    <string name="broken_connection">desconectado</string>
+    <string name="no_connection">nenhuma conexão</string>
+    <string name="protocol_error">erro de protocolo</string>
+    <string name="wrong_password">errado rejeitar senha ou servidor</string>
+    <string name="OK">Razoável</string>
+    <string name="not_ready">Ainda não está pronto</string>
+    <string name="reconnect">Reconectar</string>
+    <string name="disconnected">Você estava desconectado, reconectar-se logo.</string>
+    <string name="connect_now">Ligue agora</string>
+    <string name="chat_buffer">Buffer de bate-papo</string>
+    <string name="zero_infinity">0 significa ilimitada</string>
+
+</resources>

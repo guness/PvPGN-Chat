@@ -1,0 +1,71 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="W3" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:spinnerStyle">@style/Spinner</item>
+        <item name="android:spinnerItemStyle">@style/SpinnerItem</item>
+        <item name="android:dropDownListViewStyle">@style/SpinnerListView</item>
+        <item name="android:checkboxStyle">@style/WesCheckBoxStyle</item>
+        <item name="android:radioButtonStyle">@style/WesRadioButtonStyle</item>
+        <item name="android:editTextStyle">@style/WesEditTextStyle</item>
+        <item name="android:textViewStyle">@style/WesTextViewStyle</item>
+    </style>
+
+
+    <style name="SpinnerItem" parent="@android:style/Widget.TextView.SpinnerItem">
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">@color/spinner_blue</item>
+    </style>
+
+    <style name="Spinner" parent="@android:style/Widget.Spinner">
+        <item name="android:background">@drawable/d_button</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="SpinnerListView" parent="@android:style/Widget.ListView.DropDown">
+        <item name="android:background">@drawable/input_border</item>
+        <item name="android:divider">@null</item>
+        <item name="android:dividerHeight">0dp</item>
+    </style>
+
+    <style name="WesCheckBoxStyle" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:background">@drawable/s2</item>
+        <item name="android:button">@drawable/checkbox</item>
+        <item name="android:textColor">@color/channel_sender</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="WesRadioButtonStyle" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:background">@drawable/s2</item>
+        <item name="android:button">@drawable/radiobutton</item>
+        <item name="android:textColor">@color/channel_sender</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="WesEditTextStyle" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">@color/White</item>
+        <item name="android:background">@drawable/input_border</item>
+        <item name="android:shadowColor">@color/Black</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+    <style name="WesTextViewStyle" parent="@android:style/Widget.TextView">
+        <item name="android:background">@drawable/s</item>
+        <item name="android:textColor">@color/channel_sender</item>
+        <item name="android:shadowColor">@color/Black</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+</resources>

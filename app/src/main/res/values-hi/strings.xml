@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="send">भेजें</string>
+    <string name="login">लॉगिन</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="password">पासवर्ड</string>
+    <string name="channel">चैनल</string>
+    <string name="remember">याद है मुझे</string>
+    <string name="exit">बाहर निकलें</string>
+    <string name="save">सहेजें</string>
+    <string name="email">ईमेल</string>
+    <string name="email_re">ईमेल (फिर से)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">आने वाली whisps के लिए चेतावनी</string>
+    <string name="keep_wifi_on">वाईफ़ाई पर रखने के लिए प्रयास करें</string>
+    <string name="num_of_chats">चैट विंडो पर संदेशों की संख्या</string>
+    <string name="gateway">गेटवे</string>
+    <string name="x_users_in_channel">%1$ घ उपयोगकर्ताओं में चैनल #%2$s</string>
+    <string name="whispers">फुसफुसाते हुए</string>
+    <string name="ANNOUNCEMENT">घोषणा</string>
+    <string name="joining_channel">चैनल में शामिल</string>
+    <string name="you_whispered_to">आप %1$s को फुसफुसाए</string>
+    <string name="INFO">जानकारी</string>
+    <string name="ERROR">त्रुटि</string>
+    <string name="emote_from">%1$s से भाव का प्रकट करना</string>
+    <string name="broken_connection">डिस्कनेक्ट किया गया</string>
+    <string name="no_connection">कोई कनेक्शन नहीं</string>
+    <string name="protocol_error">प्रोटोकॉल त्रुटि</string>
+    <string name="wrong_password">गलत पासवर्ड या सर्वर अस्वीकार करें</string>
+    <string name="OK">ठीक है</string>
+    <string name="not_ready">अभी तक तैयार नहीं</string>
+    <string name="reconnect">पुन: कनेक्ट करें</string>
+    <string name="disconnected">तुम, जल्द ही reconnecting डिस्कनेक्ट हो रहे थे।</string>
+    <string name="connect_now">अब कनेक्ट करें</string>
+    <string name="chat_buffer">चैट बफर</string>
+    <string name="zero_infinity">0 का अर्थ है असीमित</string>
+
+</resources>

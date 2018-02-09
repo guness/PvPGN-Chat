@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Instellingen</string>
+    <string name="send">Verzenden</string>
+    <string name="login">Login</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="password">Wachtwoord</string>
+    <string name="channel">Kanaal</string>
+    <string name="remember">Onthoud mijn gegevens</string>
+    <string name="exit">Uitgang</string>
+    <string name="save">Opslaan</string>
+    <string name="email">E-mail</string>
+    <string name="email_re">E-mail (nogmaals)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Waarschuwing voor binnenkomende whisps</string>
+    <string name="keep_wifi_on">Proberen te houden van wifi op</string>
+    <string name="num_of_chats">Aantal berichten op chat-venster</string>
+    <string name="gateway">Gateway</string>
+    <string name="x_users_in_channel">%1$d gebruikers in kanaal #%2$s</string>
+    <string name="whispers">Whispers</string>
+    <string name="ANNOUNCEMENT">AANKONDIGING</string>
+    <string name="joining_channel">Toetreding tot kanaal</string>
+    <string name="you_whispered_to">U fluisterde %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">FOUT</string>
+    <string name="emote_from">eMote van %1$s</string>
+    <string name="broken_connection">verbinding verbroken</string>
+    <string name="no_connection">geen verbinding</string>
+    <string name="protocol_error">protocolfout</string>
+    <string name="wrong_password">verkeerde wachtwoord of server weigeren</string>
+    <string name="OK">gerai</string>
+    <string name="not_ready">Nog niet klaar</string>
+    <string name="reconnect">Opnieuw verbinding maken</string>
+    <string name="disconnected">U was verbroken, snel opnieuw verbinding maken.</string>
+    <string name="connect_now">Nu verbinding maken</string>
+    <string name="chat_buffer">Chat Buffer</string>
+    <string name="zero_infinity">0 betekent onbeperkt</string>
+
+</resources>

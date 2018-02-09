@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Einstellungen</string>
+    <string name="send">Send</string>
+    <string name="login">Login</string>
+    <string name="username">Benutzername</string>
+    <string name="password">Passwort</string>
+    <string name="channel">Kanal</string>
+    <string name="remember">Denk an mich</string>
+    <string name="exit">Ausfahrt</string>
+    <string name="save">Speichern</string>
+    <string name="email">E-Mail</string>
+    <string name="email_re">E-Mail (wieder)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Benachrichtigung für eingehende whisps</string>
+    <string name="keep_wifi_on">Wifi auf zu halten versuchen</string>
+    <string name="num_of_chats">Anzahl der Nachrichten im Chatfenster</string>
+    <string name="gateway">Gateway</string>
+    <string name="x_users_in_channel">%1$d Benutzer in Kanal #%2$s</string>
+    <string name="whispers">Flüstern</string>
+    <string name="ANNOUNCEMENT">ANKÜNDIGUNG</string>
+    <string name="joining_channel">Kanal Beitritt</string>
+    <string name="you_whispered_to">Sie flüsterte zu %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">FEHLER</string>
+    <string name="emote_from">Emote von %1$s</string>
+    <string name="broken_connection">getrennt</string>
+    <string name="no_connection">keine Verbindung</string>
+    <string name="protocol_error">Protokollfehler</string>
+    <string name="wrong_password">falsches Kennwort oder Server ablehnen</string>
+    <string name="OK">Okay</string>
+    <string name="not_ready">Noch nicht fertig</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="disconnected">Sie wurden getrennt, bald wieder näher.</string>
+    <string name="connect_now">Schließen Sie jetzt</string>
+    <string name="chat_buffer">Chat-Puffer</string>
+    <string name="zero_infinity">0 bedeutet unbegrenzt</string>
+
+</resources>

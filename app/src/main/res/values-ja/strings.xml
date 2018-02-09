@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">設定</string>
+    <string name="send">送信</string>
+    <string name="login">ログイン</string>
+    <string name="username">ユーザー名</string>
+    <string name="password">パスワード</string>
+    <string name="channel">チャネル</string>
+    <string name="remember">私を覚えてください。</string>
+    <string name="exit">出口</string>
+    <string name="save">保存</string>
+    <string name="email">電子メール</string>
+    <string name="email_re">メール （再び）</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">着信 whisps の警告</string>
+    <string name="keep_wifi_on">Wifi 維持しようとするには</string>
+    <string name="num_of_chats">チャット ウィンドウにメッセージの数</string>
+    <string name="gateway">ゲートウェイ</string>
+    <string name="x_users_in_channel">%1$d のユーザー チャネル番号 %2$s</string>
+    <string name="whispers">ささやき</string>
+    <string name="ANNOUNCEMENT">お知らせ</string>
+    <string name="joining_channel">チャネルに参加します。</string>
+    <string name="you_whispered_to">%1$s をささやいた</string>
+    <string name="INFO">情報</string>
+    <string name="ERROR">エラー</string>
+    <string name="emote_from">%1$s を破ったと宣言します。</string>
+    <string name="broken_connection">切断</string>
+    <string name="no_connection">接続なし</string>
+    <string name="protocol_error">プロトコル エラー</string>
+    <string name="wrong_password">間違ったパスワードまたはサーバー拒否</string>
+    <string name="OK">わかりました</string>
+    <string name="not_ready">まだ準備ができていません</string>
+    <string name="reconnect">再接続</string>
+    <string name="disconnected">あなたは、すぐに再接続を切断されました。</string>
+    <string name="connect_now">今すぐ接続します。</string>
+    <string name="chat_buffer">チャット バッファー</string>
+    <string name="zero_infinity">0 は無制限</string>
+
+</resources>

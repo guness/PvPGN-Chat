@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Pengaturan</string>
+    <string name="send">Kirim</string>
+    <string name="login">Login</string>
+    <string name="username">Nama pengguna</string>
+    <string name="password">Sandi</string>
+    <string name="channel">Saluran</string>
+    <string name="remember">Ingat saya</string>
+    <string name="exit">Keluar</string>
+    <string name="save">Simpan</string>
+    <string name="email">Email</string>
+    <string name="email_re">Email (lagi)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Waspada untuk masuk whisps</string>
+    <string name="keep_wifi_on">Cobalah untuk menjaga wifi</string>
+    <string name="num_of_chats">Jumlah pesan di jendela obrolan</string>
+    <string name="gateway">Gateway</string>
+    <string name="x_users_in_channel">%1$d pengguna dalam channel #%2$s</string>
+    <string name="whispers">berbisik</string>
+    <string name="ANNOUNCEMENT">PENGUMUMAN</string>
+    <string name="joining_channel">Bergabung dengan Channel</string>
+    <string name="you_whispered_to">Anda berbisik kepada %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">KESALAHAN</string>
+    <string name="emote_from">hasrat dari %1$s</string>
+    <string name="broken_connection">terputus</string>
+    <string name="no_connection">tidak ada koneksi</string>
+    <string name="protocol_error">kesalahan protokol</string>
+    <string name="wrong_password">menolak sandi atau server yang salah</string>
+    <string name="OK">Oke</string>
+    <string name="not_ready">Belum siap belum</string>
+    <string name="reconnect">Menyambung kembali</string>
+    <string name="disconnected">Anda telah terputus, menghubungkan kembali segera.</string>
+    <string name="connect_now">Connect sekarang</string>
+    <string name="chat_buffer">Obrolan Buffer</string>
+    <string name="zero_infinity">0 berarti tidak terbatas</string>
+
+</resources>

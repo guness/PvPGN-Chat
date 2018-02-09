@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Iestatījumus</string>
+    <string name="send">Nosūtīt</string>
+    <string name="login">Pieteikšanās</string>
+    <string name="username">Lietotājvārds</string>
+    <string name="password">Parole</string>
+    <string name="channel">Kanāls</string>
+    <string name="remember">Atcerēties mani</string>
+    <string name="exit">Iziet no</string>
+    <string name="save">Saglabāt</string>
+    <string name="email">E-pasts</string>
+    <string name="email_re">E-pasts (vēlreiz)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Brīdinājuma signālu ienākošajiem whisps</string>
+    <string name="keep_wifi_on">Mēģiniet turēt wifi</string>
+    <string name="num_of_chats">Ziņas par tērzēšanas logu skaits</string>
+    <string name="gateway">Vārteja</string>
+    <string name="x_users_in_channel">%1$d lietotāji kanālu #%2$s</string>
+    <string name="whispers">čukst</string>
+    <string name="ANNOUNCEMENT">PAZIŅOJUMS</string>
+    <string name="joining_channel">Pievienoties kanālam</string>
+    <string name="you_whispered_to">Pie %1$s nočukstēja</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">KĻŪDA</string>
+    <string name="emote_from">Emote no %1$s</string>
+    <string name="broken_connection">atvienots</string>
+    <string name="no_connection">nav savienojuma</string>
+    <string name="protocol_error">protokola kļūda</string>
+    <string name="wrong_password">nepareiza parole vai servera noraidīt</string>
+    <string name="OK">labi</string>
+    <string name="not_ready">Vēl nav gatavi</string>
+    <string name="reconnect">Atkārtoti izveidot savienojumu</string>
+    <string name="disconnected">Tas tika pārtraukts, saiknes drīz.</string>
+    <string name="connect_now">Izveidot savienojumu tūlīt</string>
+    <string name="chat_buffer">Čats buferis</string>
+    <string name="zero_infinity">0 nozīmē neierobežotu</string>
+
+</resources>

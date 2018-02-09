@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Paramètres</string>
+    <string name="send">Envoyer</string>
+    <string name="login">Login</string>
+    <string name="username">Nom d\'utilisateur\'</string>
+    <string name="password">Mot de passe</string>
+    <string name="channel">Canal</string>
+    <string name="remember">Se souvenir de moi</string>
+    <string name="exit">Sortie</string>
+    <string name="save">Enregistrer</string>
+    <string name="email">Messagerie</string>
+    <string name="email_re">Courriel (nouveau)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Alerte pour whisps entrant</string>
+    <string name="keep_wifi_on">Essayez de garder le wifi</string>
+    <string name="num_of_chats">Nombre de messages sur la fenêtre de chat</string>
+    <string name="gateway">Porte d\'entrée\'</string>
+    <string name="x_users_in_channel">%1$d utilisateurs dans le canal #%2$s</string>
+    <string name="whispers">murmures</string>
+    <string name="ANNOUNCEMENT">ANNONCE</string>
+    <string name="joining_channel">Rejoindre Channel</string>
+    <string name="you_whispered_to">Vous chuchoté à %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">ERREUR</string>
+    <string name="emote_from">emote de %1$s</string>
+    <string name="broken_connection">déconnecté</string>
+    <string name="no_connection">pas de connexion</string>
+    <string name="protocol_error">erreur de protocole</string>
+    <string name="wrong_password">faux rejet de mot de passe ou de serveur</string>
+    <string name="OK">Bien</string>
+    <string name="not_ready">N\'est pas prêt encore\'</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="disconnected">Vous ont été déconnectés, rebrancher bientôt.</string>
+    <string name="connect_now">Se connecter maintenant</string>
+    <string name="chat_buffer">Tampon chat</string>
+    <string name="zero_infinity">0 signifie illimité</string>
+
+</resources>

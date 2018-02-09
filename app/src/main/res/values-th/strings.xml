@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">การตั้งค่า</string>
+    <string name="send">ส่ง</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="username">ชื่อผู้ใช้</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="channel">ช่อง</string>
+    <string name="remember">อย่าลืมฉัน</string>
+    <string name="exit">จบการทำงาน</string>
+    <string name="save">บันทึก</string>
+    <string name="email">อีเมล</string>
+    <string name="email_re">อีเมล์ (อีกครั้ง)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">เตือนขาเข้า whisps</string>
+    <string name="keep_wifi_on">พยายามที่จะให้คำแนะนำใน</string>
+    <string name="num_of_chats">จำนวนข้อความในหน้าต่างสนทนา</string>
+    <string name="gateway">เกตเวย์</string>
+    <string name="x_users_in_channel">%1$ ผู้ใช้ d ในช่อง #%2$s</string>
+    <string name="whispers">whispers</string>
+    <string name="ANNOUNCEMENT">ประกาศ</string>
+    <string name="joining_channel">รวมช่อง</string>
+    <string name="you_whispered_to">คุณกระซิบไปยัง %1$s</string>
+    <string name="INFO">ข้อมูล</string>
+    <string name="ERROR">ข้อผิดพลาด</string>
+    <string name="emote_from">emote จาก %1$s</string>
+    <string name="broken_connection">ตัดการเชื่อมต่อ</string>
+    <string name="no_connection">ไม่เชื่อมต่อ</string>
+    <string name="protocol_error">ข้อผิดพลาดโพรโทคอล</string>
+    <string name="wrong_password">รหัสผ่านหรือเซิร์ฟเวอร์ถูกปฏิเสธ</string>
+    <string name="OK">ตกลง, ได้</string>
+    <string name="not_ready">ยังไม่พร้อม</string>
+    <string name="reconnect">เชื่อมต่อใหม่</string>
+    <string name="disconnected">คุณถูกตัดการเชื่อมต่อ เชื่อมเร็ว ๆ นี้</string>
+    <string name="connect_now">เชื่อมต่อเดี๋ยวนี้</string>
+    <string name="chat_buffer">บัฟเฟอร์แชท</string>
+    <string name="zero_infinity">0 หมายถึงไม่จำกัด</string>
+
+</resources>

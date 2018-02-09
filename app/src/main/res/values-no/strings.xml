@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Innstillinger</string>
+    <string name="send">Send</string>
+    <string name="login">Logg inn</string>
+    <string name="username">Brukernavn</string>
+    <string name="password">Passord</string>
+    <string name="channel">Kanal</string>
+    <string name="remember">Husk meg</string>
+    <string name="exit">Avslutt</string>
+    <string name="save">Lagre</string>
+    <string name="email">E-post</string>
+    <string name="email_re">Epost (igjen)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Varsel for innkommende whisps</string>
+    <string name="keep_wifi_on">Prøv å holde wifi på</string>
+    <string name="num_of_chats">Antall meldinger i Teksttelefon-vinduet</string>
+    <string name="gateway">Gateway</string>
+    <string name="x_users_in_channel">%1$d brukere i kanalen #%2$s</string>
+    <string name="whispers">hvisking</string>
+    <string name="ANNOUNCEMENT">KUNNGJØRING</string>
+    <string name="joining_channel">Med kanal</string>
+    <string name="you_whispered_to">Du hvisket til %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">FEIL</string>
+    <string name="emote_from">Emote fra %1$s</string>
+    <string name="broken_connection">frakoblet</string>
+    <string name="no_connection">ingen forbindelse</string>
+    <string name="protocol_error">protokollfeil</string>
+    <string name="wrong_password">feil passord eller server Avvis</string>
+    <string name="OK">ok</string>
+    <string name="not_ready">Ikke klar ennå</string>
+    <string name="reconnect">Koble</string>
+    <string name="disconnected">Du var frakoblet, kobler snart.</string>
+    <string name="connect_now">Koble til nå</string>
+    <string name="chat_buffer">Chat Buffer</string>
+    <string name="zero_infinity">0 betyr ubegrenset</string>
+
+</resources>

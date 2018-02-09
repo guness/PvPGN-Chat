@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Paramètres</string>
+    <string name="send">Voye</string>
+    <string name="login">Connexion</string>
+    <string name="username">D</string>
+    <string name="password">Modpas</string>
+    <string name="channel">Kanal</string>
+    <string name="remember">Pa bliye m</string>
+    <string name="exit">Òti</string>
+    <string name="save">Mete sou kote</string>
+    <string name="email">Mel</string>
+    <string name="email_re">Courriel (ankò)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Alèt pou whisps kap vini</string>
+    <string name="keep_wifi_on">Bat pou pa wifi</string>
+    <string name="num_of_chats">Nombre de mesaj sou koze fenèt</string>
+    <string name="gateway">Passerelle</string>
+    <string name="x_users_in_channel">%1$ è utilisateurs nan kanal #%2$s</string>
+    <string name="whispers">whispers</string>
+    <string name="ANNOUNCEMENT">ANONSMAN</string>
+    <string name="joining_channel">Se kanal</string>
+    <string name="you_whispered_to">Ou a pou %1$s</string>
+    <string name="INFO">ENFÒMASYON SOU</string>
+    <string name="ERROR">ERREUR</string>
+    <string name="emote_from">ji fò de %1$s</string>
+    <string name="broken_connection">déconnecté</string>
+    <string name="no_connection">okenn koneksyon</string>
+    <string name="protocol_error">pwotokòl erreur</string>
+    <string name="wrong_password">move rejete modpas ou sèvè</string>
+    <string name="OK">Oke</string>
+    <string name="not_ready">Pa pare Mais</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="disconnected">Ou te déconnecté, se sa ki trè byento.</string>
+    <string name="connect_now">Konekte koulye a</string>
+    <string name="chat_buffer">Koze tanpon</string>
+    <string name="zero_infinity">0 mwayen Illimité</string>
+
+</resources>

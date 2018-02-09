@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Configuració</string>
+    <string name="send">Enviar</string>
+    <string name="login">Connecti\'s\'</string>
+    <string name="username">Nom d\'usuari\'</string>
+    <string name="password">Contrasenya</string>
+    <string name="channel">Canal</string>
+    <string name="remember">Recordar-me</string>
+    <string name="exit">Sortida</string>
+    <string name="save">Desa</string>
+    <string name="email">Correu electrònic</string>
+    <string name="email_re">Correu electrònic (nou)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Alerta per ràfegues entrants</string>
+    <string name="keep_wifi_on">Intenta mantenir wifi en</string>
+    <string name="num_of_chats">Nombre de missatges a la finestra de xat</string>
+    <string name="gateway">Porta d\'entrada\'</string>
+    <string name="x_users_in_channel">%1$d usuaris al canal #%2$s</string>
+    <string name="whispers">murmuris</string>
+    <string name="ANNOUNCEMENT">ANUNCI</string>
+    <string name="joining_channel">Incorporar-se a canal</string>
+    <string name="you_whispered_to">Que xiuxiuejava a %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">ERROR</string>
+    <string name="emote_from">emot de %1$s</string>
+    <string name="broken_connection">desconnectat</string>
+    <string name="no_connection">sense connexió</string>
+    <string name="protocol_error">error de protocol</string>
+    <string name="wrong_password">rebutja contrasenya o servidor equivocat</string>
+    <string name="OK">CORRECTE</string>
+    <string name="not_ready">No està encara llest</string>
+    <string name="reconnect">La reconnexió</string>
+    <string name="disconnected">Li van ser desconnectat, reconnectant aviat.</string>
+    <string name="connect_now">Connecta\'t ara\'</string>
+    <string name="chat_buffer">Memòria intermèdia de xat</string>
+    <string name="zero_infinity">0 significa sense límit</string>
+
+</resources>

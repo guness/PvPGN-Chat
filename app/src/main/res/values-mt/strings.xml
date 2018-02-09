@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">L-issettjar</string>
+    <string name="send">Tibgħat</string>
+    <string name="login">Login</string>
+    <string name="username">Isem l-utent</string>
+    <string name="password">Il-password</string>
+    <string name="channel">Il-kanal</string>
+    <string name="remember">Ftakar il-Kuntatti Maġenbi</string>
+    <string name="exit">Ħruġ</string>
+    <string name="save">Issejvja l-</string>
+    <string name="email">Indirizz elettroniku</string>
+    <string name="email_re">Email (jerġgħu)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">It-twissija għall-whisps tad-dħul</string>
+    <string name="keep_wifi_on">Ipprova żomm WiFi Real-Time</string>
+    <string name="num_of_chats">In-numru ta \' messaġġi fuq tat-tieqa ta \' l-iċċettjar\'</string>
+    <string name="gateway">Il-Gateway</string>
+    <string name="x_users_in_channel">%1$d utenti fil-kanal #%2$s</string>
+    <string name="whispers">whispers</string>
+    <string name="ANNOUNCEMENT">TĦABBIR</string>
+    <string name="joining_channel">Li tgħaqqad il-kanal</string>
+    <string name="you_whispered_to">Inti gurnalista %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">L-IŻBALL</string>
+    <string name="emote_from">emote minn %1$s</string>
+    <string name="broken_connection">Skonnettjat</string>
+    <string name="no_connection">l-ebda konnessjoni</string>
+    <string name="protocol_error">Żball fil-Protokoll</string>
+    <string name="wrong_password">ħażin il-password jew is-server jirrifjuta</string>
+    <string name="OK">kollox sew</string>
+    <string name="not_ready">Għadu mhux lest</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="disconnected">Inti kienu skonnettjat, reconnecting malajr.</string>
+    <string name="connect_now">Ikkonnettja issa</string>
+    <string name="chat_buffer">Buffer ta \' l-iċċettjar\'</string>
+    <string name="zero_infinity">0 tfisser mingħajr limitu</string>
+
+</resources>

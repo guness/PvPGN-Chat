@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="send">Αποστολή</string>
+    <string name="login">Σύνδεση</string>
+    <string name="username">Όνομα χρήστη</string>
+    <string name="password">Κωδικός πρόσβασης</string>
+    <string name="channel">Κανάλι</string>
+    <string name="remember">Να με θυμάσαι</string>
+    <string name="exit">Έξοδος</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="email">Ηλεκτρονικό ταχυδρομείο</string>
+    <string name="email_re">Ηλεκτρονικό ταχυδρομείο (και πάλι)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Ειδοποίηση για εισερχόμενες whisps</string>
+    <string name="keep_wifi_on">Προσπαθήστε να κρατήσετε το wifi</string>
+    <string name="num_of_chats">Αριθμός μηνυμάτων στο παράθυρο συνομιλίας</string>
+    <string name="gateway">Πύλη</string>
+    <string name="x_users_in_channel">%1$d χρήστες στο κανάλι #%2$s.</string>
+    <string name="whispers">Ψίθυροι</string>
+    <string name="ANNOUNCEMENT">ΑΝΑΚΟΊΝΩΣΗ</string>
+    <string name="joining_channel">Ενώνει το κανάλι</string>
+    <string name="you_whispered_to">Σας ψιθύρισε %1$s</string>
+    <string name="INFO">ΠΛΗΡΟΦΟΡΊΕΣ</string>
+    <string name="ERROR">ΣΦΆΛΜΑ</string>
+    <string name="emote_from">ο συναισθηματικός από %1$s</string>
+    <string name="broken_connection">αποσυνδεθεί</string>
+    <string name="no_connection">καμία σχέση</string>
+    <string name="protocol_error">σφάλμα πρωτοκόλλου</string>
+    <string name="wrong_password">λάθος κωδικό πρόσβασης ή του διακομιστή απόρριψη</string>
+    <string name="OK">Ok</string>
+    <string name="not_ready">Δεν είναι έτοιμη ακόμα</string>
+    <string name="reconnect">Επανασύνδεση</string>
+    <string name="disconnected">Αποσυνδεθήκατε, επανασύνδεση σύντομα.</string>
+    <string name="connect_now">Συνδεθείτε τώρα</string>
+    <string name="chat_buffer">Buffer συνομιλίας</string>
+    <string name="zero_infinity">0 σημαίνει απεριόριστο αριθμό ενωτικών</string>
+
+</resources>

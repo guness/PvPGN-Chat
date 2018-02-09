@@ -1,0 +1,104 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context=".MainActivity" >
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="73dp"
+            android:ems="10"
+            android:hint="@string/username"
+            android:textCursorDrawable="@null" >
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/username"
+            android:layout_alignRight="@+id/username"
+            android:layout_below="@+id/username"
+            android:ems="10"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:textCursorDrawable="@null" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/username"
+            android:layout_below="@+id/password"
+            android:layout_margin="6dp"
+            android:text="@string/gateway" />
+
+        <CheckBox
+            android:id="@+id/remember"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/username"
+            android:layout_alignRight="@+id/username"
+            android:layout_below="@+id/textView1"
+            android:text="@string/remember"
+            android:textCursorDrawable="@null" />
+
+        <ProgressBar
+            android:id="@+id/progressBar1"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:indeterminate="true"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/remember"
+            android:layout_alignRight="@+id/remember"
+            android:layout_below="@+id/remember"
+            android:background="@drawable/ab_button"
+            android:fitsSystemWindows="false"
+            android:longClickable="true"
+            android:text="@string/login"
+            android:textColor="@color/channel_sender" />
+
+        <ImageView
+            android:id="@+id/settings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/ab_button"
+            android:clickable="true"
+            android:contentDescription="@string/action_settings"
+            android:src="@drawable/settings" />
+
+        <TextView
+            android:id="@+id/gateway"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/textView1"
+            android:layout_alignRight="@+id/password"
+            android:layout_toRightOf="@+id/textView1" />
+    </RelativeLayout>
+
+</ScrollView>

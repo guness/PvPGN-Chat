@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Seaded</string>
+    <string name="send">Saada</string>
+    <string name="login">Logi sisse</string>
+    <string name="username">Kasutajanimi</string>
+    <string name="password">Parooli</string>
+    <string name="channel">Channel</string>
+    <string name="remember">Mäleta mind</string>
+    <string name="exit">Välju</string>
+    <string name="save">Salvesta</string>
+    <string name="email">E-posti</string>
+    <string name="email_re">Email (uuesti)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">Helistajagrupid saabuvate whisps</string>
+    <string name="keep_wifi_on">Hoia wifi</string>
+    <string name="num_of_chats">Sõnumeid vestluse akna</string>
+    <string name="gateway">Gateway</string>
+    <string name="x_users_in_channel">%1$d kasutajatele kanal #%2$s</string>
+    <string name="whispers">sosistab</string>
+    <string name="ANNOUNCEMENT">TEADAANNE</string>
+    <string name="joining_channel">Kanaliga liitumine</string>
+    <string name="you_whispered_to">Mida sosistas %1$s</string>
+    <string name="INFO">INFO</string>
+    <string name="ERROR">TÕRGE</string>
+    <string name="emote_from">emote: %1$s</string>
+    <string name="broken_connection">lahti</string>
+    <string name="no_connection">mingit seost</string>
+    <string name="protocol_error">protokolli viga</string>
+    <string name="wrong_password">vale parool või server hülgab</string>
+    <string name="OK">Ok</string>
+    <string name="not_ready">Ei ole valmis veel</string>
+    <string name="reconnect">Ühenda uuesti</string>
+    <string name="disconnected">Sa olid lahti, läheneb kiiresti.</string>
+    <string name="connect_now">Ühenda kohe</string>
+    <string name="chat_buffer">Vestlus puhver</string>
+    <string name="zero_infinity">0 tähendab piiramatu</string>
+
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "404776267979",
+    "firebase_url": "https://pvpgn-chat.firebaseio.com",
+    "project_id": "pvpgn-chat",
+    "storage_bucket": "pvpgn-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404776267979:android:a983d4b738203542",
+        "android_client_info": {
+          "package_name": "bnet.pvpgn.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404776267979-o6be9atp1kn829kn87crle0i6c6aff8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPW1S3te8IRq_W98cW8h2-K8uhO_TvGxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">设置</string>
+    <string name="send">发送</string>
+    <string name="login">登录</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="channel">通道</string>
+    <string name="remember">还记得我</string>
+    <string name="exit">退出</string>
+    <string name="save">保存</string>
+    <string name="email">电子邮件</string>
+    <string name="email_re">电子邮件 (再)</string>
+
+    <string-array name="actions_user">
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+    <string-array name="actions_admin">
+        <item>Kick</item>
+        <item>Ban</item>
+        <item>Mute</item>
+        <item>Unmute</item>
+        <item>Whois</item>
+        <item>Finger</item>
+        <item>Rat</item>
+        <item>Sd</item>
+        <item>Squelch</item>
+        <item>Unsquelch</item>
+    </string-array>
+
+    <string name="alert_when_whisp_comes">警报传入 whisps</string>
+    <string name="keep_wifi_on">尽量保持 wifi</string>
+    <string name="num_of_chats">在聊天窗口中的消息数</string>
+    <string name="gateway">网关</string>
+    <string name="x_users_in_channel">%1$d 名用户在通道 # %2$s</string>
+    <string name="whispers">悄悄话</string>
+    <string name="ANNOUNCEMENT">公告</string>
+    <string name="joining_channel">加入通道</string>
+    <string name="you_whispered_to">你在耳边 %1$s</string>
+    <string name="INFO">信息</string>
+    <string name="ERROR">错误</string>
+    <string name="emote_from">从 %1$s 表现感情</string>
+    <string name="broken_connection">已断开连接</string>
+    <string name="no_connection">没有连接</string>
+    <string name="protocol_error">协议错误</string>
+    <string name="wrong_password">错误的密码或服务器拒绝</string>
+    <string name="OK">还行</string>
+    <string name="not_ready">尚无充分准备</string>
+    <string name="reconnect">重新连接</string>
+    <string name="disconnected">你都已断开，重新连接很快。</string>
+    <string name="connect_now">现在连接</string>
+    <string name="chat_buffer">聊天缓冲区</string>
+    <string name="zero_infinity">0 表示无限制</string>
+
+</resources>
